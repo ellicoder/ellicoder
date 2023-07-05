@@ -13,6 +13,7 @@
 - ENTJ👩🏻‍💼
 
 - I’m currently reading: Data Science + Machine Learning + Deep Learning + NLP 🤯
+- Junior in everything!
 
 ### 🖥 Skills
 
