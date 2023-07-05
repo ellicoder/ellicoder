@@ -18,6 +18,7 @@
 
 - C++🌀
 - SQL✨
+- Linux🐧
 - Python🐍
 - Scratch🦊
 - Html&Css🫧
