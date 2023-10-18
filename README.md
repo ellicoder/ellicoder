@@ -12,7 +12,7 @@
 - 2002/MAY/26 🇮🇷
 - ENTJ👩🏻‍💼
 
-- I’m currently reading: Data Science + Machine Learning + Deep Learning + NLP 🤯
+- I’m currently reading: Data Science + ML + DL + NLP 🤯
 - Junior in everything!
 
 ### 🖥 Skills
