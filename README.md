@@ -8,8 +8,8 @@
 [![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://github.com/ellicoder)](https://github.com/ellicoder)
 [![Github](https://img.shields.io/github/followers/ellicoder?label=Follow&style=social)](https://github.com/ellicoder)
 
-- BS Student of Computer Science👩‍💻
-- 2002/MAY/26 🇮🇷
+- Computer Science Graduate👩‍💻
+- 2002/MAY/26🇮🇷
 - ENTJ👩🏻‍💼
 
 - I’m currently reading: Data Science + ML + DL + NLP 🤯
